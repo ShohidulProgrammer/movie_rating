@@ -1,6 +1,6 @@
 # movie_rating
 
-A new Flutter project.
+A new Flutter project with firbase crud functionalities.
 
 ## Getting Started
 
